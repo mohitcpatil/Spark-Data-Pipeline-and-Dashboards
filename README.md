@@ -9,7 +9,7 @@
 - ETL Architecture
 - Schema for Dataset 
 ###### 2. Data Extraction
-- Spark Partition
+- Spark Partitions
 ###### 3. Data Transformation
 - Spark API's
 - Schema for Dataset
