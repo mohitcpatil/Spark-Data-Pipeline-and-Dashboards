@@ -4,7 +4,7 @@
    
 <img width="1086" alt="ETL" src="https://user-images.githubusercontent.com/900824/114146170-22d3fa80-98cc-11eb-99eb-1b1474b425a3.png">
 
-### Summary of Jupyter notebook:
+### Summary of Jupyter notebook :
 ###### 1. Intorduction
 - ETL Architecture
 - Schema for Dataset 
